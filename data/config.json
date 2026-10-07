@@ -1,0 +1,27 @@
+{
+  "languages": ["fr", "en", "ar"],
+  "keyword": "manifestation",
+  "phrase_templates": {
+    "fr": [
+      "La ville discute du trafic ce matin.",
+      "Les etudiants partagent des nouvelles du campus.",
+      "Le quartier parle de culture et de sport.",
+      "Les habitants commentent la meteo du week-end.",
+      "Les journalistes couvrent une manifestation pacifique au centre-ville."
+    ],
+    "en": [
+      "People are posting about local sports tonight.",
+      "Residents are sharing commute updates downtown.",
+      "Students are discussing the new event on campus.",
+      "A protest is forming near the central avenue.",
+      "Families are talking about the weather this weekend."
+    ],
+    "ar": [
+      "الناس يتحدثون عن حركة المرور هذا الصباح.",
+      "الطلاب ينشرون اخبارا عن الحرم الجامعي.",
+      "السكان يناقشون الطقس ونهاية الاسبوع.",
+      "الحي يتابع الاخبار المحلية اليوم.",
+      "المستخدمون يشاركون تعليقات عامة بدون حدث كبير."
+    ]
+  }
+}
